@@ -1,0 +1,46 @@
+body{
+    padding-top: 20px;
+    font-family: 'Inconsolata', monospace;
+    background-color: whitesmoke;
+}
+.col1{
+    background:whites;
+    margin:1%;
+    float:left;
+    width:30%;
+}
+.col2{
+    background:whites;
+    margin:1%;
+    float:right;
+    width:65%;
+}
+.main{
+    text-align: center;
+    font-size: 50px;
+}
+nav{
+    padding-left: 300px;
+    padding-top: 100px;
+    padding-right: 200px;
+}
+
+hr{
+    color: orange;
+    width:200px;
+    border: 2px solid orange;
+}
+.content img{
+    height: 550px;
+}
+.mini-row{
+    list-style:none;
+}
+.mini-row li{
+    padding-bottom: 30px;
+    display: flex;
+    align-items: center ;
+}
+.mini-row img{
+    height: 70px;
+}
